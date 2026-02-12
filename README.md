@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Beniwal
 
-<!--
-**yashhbeniwal/yashhbeniwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Aspiring Software Engineer  
+📍 Jaipur, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a BCA student learning software development.
+I enjoy writing code and building small projects to improve my skills.
+
+---
+
+## 🧠 Skills
+- C
+- C++
+- Java
+- Python
+- JavaScript 
+- MySQL
+
+---
+
+## 🛠️ Projects
+- Smart File Organizer (C++)
+- WebSocket Client (C++)
+
+---
+
+## 📫 Contact
+- Email: yashbeniwal78@gmail.com
+- LinkedIn: https://linkedin.com/in/yashbeniwal
