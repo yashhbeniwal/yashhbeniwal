@@ -23,7 +23,7 @@ I enjoy writing code and building small projects to improve my skills.
 ---
 
 ## 🛠️ Projects
-- 📂 [Smart File Organizer (C++)](https://github.com/yashbeniwal/smart-file-organizer)
+- 📂 [Smart File Organizer (C++)](https://github.com/yashhbeniwal/smart-file-organizer)
 - 🔌 WebSocket Client (C++)
 
 
