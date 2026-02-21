@@ -1,24 +1,25 @@
 # 👋 Hi, I'm Yash Beniwal
 
 🎓 BCA Student  
-💻 Aspiring Software Engineer  
+💻 Aspiring Data Analyst 
 📍 Jaipur, India  
 
 ---
 
 ## 🚀 About Me
-I am a BCA student learning software development.
+I am a BCA student 
 I enjoy writing code and building small projects to improve my skills.
 
 ---
 
 ## 🧠 Skills
-- C
-- C++
-- Java
 - Python
-- JavaScript 
 - MySQL
+- Excel
+- Power BI
+- C/C++
+- Numpy/Pandas
+
 
 ---
 
