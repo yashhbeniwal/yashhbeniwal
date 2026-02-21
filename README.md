@@ -8,6 +8,7 @@
 
 ## 🚀 About Me
 I am a BCA student 
+Passionate about transforming raw data into meaningful business insights.
 I enjoy writing code and building small projects to improve my skills.
 
 ---
